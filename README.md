@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/ko/view/모코코-gif-16917794777858186577"  />
+<img align="right" height="150" src="모코코.gif"  />
 
 ###
 
