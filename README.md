@@ -77,3 +77,14 @@
     - 탱크 게임 기반인 배틀싸피는 전국 대항전 진출
 - 1학기 최종 프로젝트 **바로지도** 최우수상 수상
     - 프로젝트 후기 글 : https://velog.io/@omijafijio/SSAFY-12기-1학기-관통-프로젝트-최우수상
+ 
+<br>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Work Experience </h2> <br>
+선도소프트
+
+2019.09 ~ 2021.08
+
+- 농식품 FTA 활용서비스 개발
+- 다차원 친수시설 정보구축 및 상관관계 분석
+- 환경통계정보시스템 재구축(1차)
+- NIA DSIKR 사이트 유지보수
