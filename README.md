@@ -79,6 +79,9 @@
     - 프로젝트 후기 글 : https://velog.io/@omijafijio/SSAFY-12기-1학기-관통-프로젝트-최우수상
 - 2024년 12월 AI 프로젝트 : 마트 쇼핑 도우미 챗봇
     - Open API Assistant, Pinecone vector store, Fly io, AWS Amplify
+- 2025년 1월 ~ 2월 6인 프로젝트 : 올인원 매장 관리 서비스 JIPPY
+    - 프로젝트 README : https://github.com/JIPPY-HBHW
+    - 팀장, CI/CD (Jenkins, Docker, EC2), 풀스텍 개발
  
 <br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Work Experience </h2> <br>
