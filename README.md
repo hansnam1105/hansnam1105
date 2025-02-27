@@ -77,6 +77,7 @@
     - 탱크 게임 기반인 배틀싸피는 전국 대항전 진출
 - 1학기 최종 프로젝트 **바로지도** 최우수상 수상
     - 프로젝트 후기 글 : https://velog.io/@omijafijio/SSAFY-12기-1학기-관통-프로젝트-최우수상
+    - Github README : https://github.com/H2NAMWON
 - 2024년 12월 AI 프로젝트 : 마트 쇼핑 도우미 챗봇
     - Open API Assistant, Pinecone vector store, Fly io, AWS Amplify
 - 2025년 1월 ~ 2월 6인 프로젝트 : 올인원 매장 관리 서비스 JIPPY
