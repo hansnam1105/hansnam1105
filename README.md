@@ -1,15 +1,5 @@
 <h2 align="left">Hi 👋! My name is Seungnam Han</h2>
 
-###
-[![Github](https://www.codenary.co.kr/widget/github/api?username=한승남)](https://www.codenary.co.kr/user-profile/detail/한승남?github_ride=true&utm_source=github)
-
-</div>
-
-### 
-
-<div align="center">  
-  
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hansnam1105)
 </div>
 
 
@@ -18,6 +8,8 @@
 <img align="right" height="150" src="모코코.gif"  />
 
 ###
+
+### My Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -28,6 +20,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" alt="typesciprt logo"   />
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="30" alt="vue logo"  />     
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" alt="react logo"  />     
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"/>
+  <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -37,11 +37,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongo logo"  />
 </div>
 
 ###
 
+### More About Me!
+
 <div align="left">
+  <a href="https://hansnam1105.notion.site/hanseungnam?pvs=74" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="35" alt="gmail logo"  />
+  </a>
   <a href="hansnam123@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -53,7 +60,16 @@
   </a>
 </div>
 
+### 
+
+<div align="center">  
+  
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hansnam1105)
+</div>
+
 ###
+
+
 
 <br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Education </h2> <br>
