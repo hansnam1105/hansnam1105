@@ -94,6 +94,9 @@
 - 2025년 1월 ~ 2월 6인 프로젝트 : 올인원 매장 관리 서비스 JIPPY 우수상 수상
     - 프로젝트 README : https://github.com/JIPPY-HBHW
     - 팀장, CI/CD (Jenkins, Docker, EC2), 풀스텍 개발
+- 2025년 4월 ~ 5월 6인 프로젝트 : 나만의 전시회를 모바일에서 쉽게 만들고 감상하는 서비스 À Moi (아모아) 우수상 수상
+    - 프로젝트 README : https://github.com/Amoverse
+    - 팀장, 백엔드, Infra
  
 <br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Work Experience </h2> <br>
