@@ -69,7 +69,21 @@
 
 ###
 
+<br>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Work Experience </h2> <br>
 
+롯데이노베이트
+
+2025.09 ~
+
+선도소프트
+
+2019.09 ~ 2021.08
+
+- 농식품 FTA 활용서비스 개발
+- 다차원 친수시설 정보구축 및 상관관계 분석
+- 환경통계정보시스템 재구축(1차)
+- NIA DSIKR 사이트 유지보수
 
 <br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Education </h2> <br>
@@ -98,21 +112,6 @@
     - 프로젝트 README : https://github.com/Amoverse
     - 팀장, 백엔드, Infra
  
-<br>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Work Experience </h2> <br>
-
-롯데이노베이트
-
-2025.09 ~
-
-선도소프트
-
-2019.09 ~ 2021.08
-
-- 농식품 FTA 활용서비스 개발
-- 다차원 친수시설 정보구축 및 상관관계 분석
-- 환경통계정보시스템 재구축(1차)
-- NIA DSIKR 사이트 유지보수
 
 <br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Open Source Contribution </h2> <br>
