@@ -26,10 +26,6 @@
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" alt="react logo"  />     
   <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"/>
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
@@ -40,6 +36,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongo logo"  />
 </div>
+
+### 🤖 AI Tools
+<p align="left"> <img src="https://img.shields.io/badge/Claude%20Code-181818?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Code" /> <img src="https://img.shields.io/badge/Codex-181818?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" /> </p>
 
 ###
 
