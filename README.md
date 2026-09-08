@@ -63,7 +63,7 @@
 
 <div align="center">  
   
-[![Tokenphage](https://api.tokenphage.com/badge/<hansnam1105>)](https://github.com/TOKENPHAGE)
+[![Tokenphage](https://api.tokenphage.com/badge/hansnam1105?theme=grass-claude)](https://github.com/TOKENPHAGE)
 
 </div>
 
