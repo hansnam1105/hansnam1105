@@ -63,7 +63,7 @@
 
 <div align="center">  
   
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hansnam1105)
+[![Tokenphage](https://api.tokenphage.com/badge/<hansnam1105>)](https://github.com/TOKENPHAGE)
 </div>
 
 ###
